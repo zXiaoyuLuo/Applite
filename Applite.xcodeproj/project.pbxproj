@@ -447,6 +447,7 @@
 				fr,
 				hu,
 				"zh-Hans",
+				"zh-HK",
 			);
 			mainGroup = 414074E828DF53E80073EB22;
 			packageReferences = (
